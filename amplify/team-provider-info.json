@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-oshimaapp-dev-150231-authRole",
+      "UnauthRoleArn": "arn:aws:iam::028425972705:role/amplify-oshimaapp-dev-150231-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::028425972705:role/amplify-oshimaapp-dev-150231-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-oshimaapp-dev-150231-deployment",
+      "UnauthRoleName": "amplify-oshimaapp-dev-150231-unauthRole",
+      "StackName": "amplify-oshimaapp-dev-150231",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:028425972705:stack/amplify-oshimaapp-dev-150231/e1ab5860-0e66-11ee-a945-0ab47908d86d",
+      "AmplifyAppId": "dyg26carhunjd"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dyg26carhunjd",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
